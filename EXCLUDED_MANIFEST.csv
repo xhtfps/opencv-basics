@@ -1,0 +1,2 @@
+﻿相对路径,字节,排除原因
+.vscode\settings.json,135,目录排除:.vscode
